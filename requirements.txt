@@ -1,0 +1,7 @@
+Flask
+random
+flask
+user_agent
+requests
+gunicorn
+config
